@@ -1,8 +1,8 @@
 import Star from "./Star";
 
 export default function StarRating({
-  totalStars = 5,
-  selectedStars = 0,
+  totalStars = 6,
+  selectedStars = 1,
   onRate = (f) => f,
 }) {
   return (

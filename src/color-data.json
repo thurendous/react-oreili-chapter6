@@ -15,6 +15,11 @@
     "id": "a11e3995-b0bd-4d58-8c48-5e49ae7f7f23",
     "title": "bright red",
     "color": "#ff0000",
-    "rating": 0
+    "rating": 2
+  },
+  {
+    "id": "a11e3995-b0bd-4d58-8c48-5e49ae7f7f24",
+    "title": "Wine red",
+    "color": "#aa0000"
   }
 ]
